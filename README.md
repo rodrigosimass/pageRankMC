@@ -1,5 +1,5 @@
 # Project Title
-PageRank with Markov Chains.
+Implementation of Google's PageRank algorithm with Markov Chains.
 
 ## Description
 Page Rank is an algorithm used by google.com to rank web pages based on the number of links that point to that page.
