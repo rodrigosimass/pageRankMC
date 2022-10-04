@@ -15,5 +15,5 @@ This is a simple python notebook. Run the cells sequentially and see the results
 
 ## Authors
 This project is part of the PADI course at IST - University of Lisbon in the academic year of 2021/2022.
-*Rodrigo Simas
-*Gustavo Morais
+* Rodrigo Simas
+* Gustavo Morais
