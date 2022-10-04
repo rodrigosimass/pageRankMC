@@ -1,0 +1,3 @@
+Is u * P^10 = u*? False
+
+Is u * P^100 = u*? True
